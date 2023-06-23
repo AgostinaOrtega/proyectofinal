@@ -1,0 +1,63 @@
+[
+    {
+      "precio": 20000,
+      "id": 1,
+      "title": "servicio diseño e identidad visual",
+      "img": "./img/tienda1.png"
+    },
+    {
+      "precio": 5000,
+      "id": 2,
+      "title": "servicio de asesoramiento personalizado",
+      "img": "./img/tienda2.png"
+    },
+    {
+      "precio": 50000,
+      "id": 3,
+      "title": "servicio sitioweb",
+      "img": "./img/tienda3.png"
+    },
+    {
+      "precio": 2000,
+      "id": 4,
+      "title": "calendario de contenido",
+      "img": "./img/tienda4.png"
+    },
+    {
+      "precio": 30000,
+      "id": 5,
+      "title": "servicio de community manager",
+      "img": "./img/tienda5.png"
+    },
+    {
+      "precio": 5000,
+      "id": 6,
+      "title": "servicio de publicidad digital",
+      "img": "./img/tienda6.png"
+    },
+    {
+        "precio": 30000,
+        "id": 7,
+        "title": "servicio de fotografia de productos",
+        "img": "./img/tienda7.png"
+    },
+    {
+        "precio": 15000,
+        "id": 8,
+        "title": "servicio de mantenimiento mensual",
+        "img": "./img/tienda8.png"
+    },
+    {
+        "precio": 50000,
+        "id": 9,
+        "title": "servicio de mantenimiento general",
+        "img": "./img/tienda9.png"
+    },
+    {
+      "precio": 90000,
+      "id": 9,
+      "title": "servicio de marketing completo",
+      "img": "./img/tienda10.png"
+  }
+   
+  ]
